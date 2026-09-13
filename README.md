@@ -1,4 +1,4 @@
-# Hey, I'm Nakshathra 👋
+# I'm Nakshathra 👋
 
 🎓 **CSE Student | 2024–2028**
 💻 Learning to build things, one project at a time.
