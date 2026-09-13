@@ -1,4 +1,4 @@
-# I'm Nakshathra 👋
+# I'm Nakshathra Shiju
 
 🎓 **CSE Student | 2024–2028**
 💻 CSE student building projects and learning by doing.
